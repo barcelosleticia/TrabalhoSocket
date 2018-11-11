@@ -1,0 +1,11 @@
+C:\Users\Administrador\Desktop\BolsaValores\BolsaValores\obj\Debug\netcoreapp2.1\BolsaValores.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\BolsaValores\BolsaValores\obj\Debug\netcoreapp2.1\BolsaValores.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\BolsaValores\BolsaValores\obj\Debug\netcoreapp2.1\BolsaValores.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\BolsaValores\BolsaValores\obj\Debug\netcoreapp2.1\BolsaValores.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\BolsaValores\BolsaValores\bin\Debug\netcoreapp2.1\BolsaValores.deps.json
+C:\Users\Administrador\Desktop\BolsaValores\BolsaValores\bin\Debug\netcoreapp2.1\BolsaValores.runtimeconfig.json
+C:\Users\Administrador\Desktop\BolsaValores\BolsaValores\bin\Debug\netcoreapp2.1\BolsaValores.runtimeconfig.dev.json
+C:\Users\Administrador\Desktop\BolsaValores\BolsaValores\bin\Debug\netcoreapp2.1\BolsaValores.dll
+C:\Users\Administrador\Desktop\BolsaValores\BolsaValores\bin\Debug\netcoreapp2.1\BolsaValores.pdb
+C:\Users\Administrador\Desktop\BolsaValores\BolsaValores\obj\Debug\netcoreapp2.1\BolsaValores.dll
+C:\Users\Administrador\Desktop\BolsaValores\BolsaValores\obj\Debug\netcoreapp2.1\BolsaValores.pdb
